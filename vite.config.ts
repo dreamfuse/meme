@@ -15,5 +15,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/meme/'
+  base: 'https://dreamfuse.github.io/meme/'
 }));
